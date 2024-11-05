@@ -1,0 +1,67 @@
+@import url(section2.css);
+@import url(section3.css);
+
+/*Estilizando SECTION */
+
+/*ConteudoSC1*/
+.conteudoPage1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background: var(--Woodsmoke-50, #F6F6F6);
+}
+
+.conteudoSC1 {
+    padding: 54px 59px;
+}
+
+.conteudoSC1 h1 {
+    color: #121212;
+    font-family: Manrope, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    align-self: stretch;
+}
+
+.techrestSC1 {
+    display: flex;
+    gap: 13px;
+}
+
+.techrestSC1 img {
+    width: 60px;
+    height: 60px;
+}
+
+.techrestSC1 h2 {
+    color: #F25C54;
+    font-family: Manrope, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.conteudoPage1 p {
+    color: #121212;
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.48px;
+    width: 439px;
+    height: 116px;
+    margin-top: 29px;
+}
+
+.bonecosSC1 img {
+    padding-right: 67px;
+    width: 800px;
+    height: 385px;
+    flex-shrink: 0;
+}
+
+/*FIM ConteudoSC1*/

@@ -1,0 +1,129 @@
+/*ConteudoSC2*/
+.conteudoPage2 {
+    background: #121212;
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudoPage2 h2 {
+    margin-top: 90px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    padding: 0px 60px;
+    color: #F2F2F2;
+    font-family: Manrope, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.groupSC2 {
+    display: inline-flex;
+    gap: 370.28px;
+    padding: 0px 66px;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+
+.exploreSC2,
+.compartilheSC2,
+.conectarSC2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.exploreText,
+.compartilheText,
+.conectarText {
+    display: flex;
+    align-items: center;
+}
+
+.exploreText img,
+.compartilheText img,
+.conectarText img {
+    width: 50px;
+    height: 40px;
+    padding-right: 10px;
+}
+
+.exploreText h4,
+.compartilheText h4,
+.conectarText h4 {
+    color: #F2F2F2;
+    text-align: center;
+    font-family: Manrope, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.exploreSC2 p,
+.compartilheSC2 p,
+.conectarSC2 p {
+    padding-top: 16px;
+    width: 340px;
+    height: 172px;
+    color: rgba(242, 242, 242, 0.50);
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.48px;
+}
+
+.conjuntoSC2 {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.conjunto1,
+.conjunto2,
+.conjunto3 {
+    display: flex;
+}
+
+.conjunto1 h1,
+.conjunto2 h1,
+.conjunto3 h1 {
+    margin-left: 62px;
+    padding: 11px 25px;
+    color: #121212;
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: -0.8px;
+    border-radius: 10px;
+    width: 70px;
+    height: 70px;
+    background: #F2F2F2;
+}
+
+.conjunto1 p,
+.conjunto2 p,
+.conjunto3 p {
+    color: rgba(242, 242, 242, 0.50);
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.48px;
+    width: 930px;
+    padding-left: 21px;
+}
+
+.separaSC2a3 {
+    margin-top: 80px;
+    background: #323232;
+    border: none;
+    height: 1px;
+}
+
+/*Fim Section2*/

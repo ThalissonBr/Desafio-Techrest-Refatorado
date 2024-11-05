@@ -1,0 +1,164 @@
+/*Estilizando ConteudoPage3*/
+
+.conteudoPage3 {
+    background: #121212;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.conteudoPage3 h2 {
+    margin-top: 80px;
+    margin-left: 60px;
+    margin-bottom: 40px;
+    color: #F2F2F2;
+    font-family: Manrope, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.conteudoPage3 .p1,
+.p2 {
+    color: rgba(242, 242, 242, 0.50);
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.48px;
+    width: 816px;
+    padding-left: 60px;
+}
+
+.conteudoPage3 .p1 {
+    padding-bottom: 40px;
+}
+
+.links {
+    display: flex;
+    padding-left: 60px;
+    gap: 42px;
+}
+
+.conteudoPage3 .links .a1 {
+    display: flex;
+    width: 359px;
+    height: 48px;
+    padding: 12px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    border: 0.5px solid #323232;
+    flex-shrink: 0;
+    cursor: pointer;
+}
+
+
+.conteudoPage3 .links .a1 a {
+    color: #F2F2F2;
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.links img {
+    padding-right: 8px;
+    width: 31px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.conteudoPage3 .links .a2 {
+    display: flex;
+    width: 357px;
+    height: 46px;
+    padding: 12px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #F2F2F2;
+}
+
+.conteudoPage3 .links .a2 a {
+    display: flex;
+    align-items: center;
+    color: #191919;
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.conteudoPage3 .a3 {
+    margin-left: 60px;
+    display: flex;
+    width: 357px;
+    padding: 12px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    background: #F2F2F2;
+}
+
+.conteudoPage3 .a3 a {
+    display: flex;
+    align-items: center;
+    color: #191919;
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.conteudoPage3 .a3 img {
+    padding-right: 8px;
+    width: 30px;
+    height: 22px;
+    flex-shrink: 0;
+}
+
+.conteudoPage3 .p2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.conteudoPage3 .p3 {
+    color: rgba(242, 242, 242, 0.50);
+    font-family: Inter, Arial, Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.32px;
+    width: 876px;
+    padding: 0px 60px;
+    padding-top: 44px;
+    padding-bottom: 112px;
+}
+
+.bonecosSC3 {
+    margin-top: 91px;
+    margin-right: 66px;
+    margin-bottom: 105px;
+}
+
+.bonecosSC3 img {
+    width: 550px;
+    height: 524px;
+    flex-shrink: 0;
+}
+
+/*Fim ConteudoPage3*/
